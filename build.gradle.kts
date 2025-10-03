@@ -4,7 +4,7 @@ plugins {
 
 ihmc {
    group = "us.ihmc"
-   version = "1.0.1"
+   version = "1.0.2"
    vcsUrl = "https://github.com/ihmcrobotics/promp-java"
    openSource = true
 
